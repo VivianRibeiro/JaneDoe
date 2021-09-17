@@ -81,15 +81,15 @@ section.music iframe{
     margin: 30px 0;
 }
 
-/*contact.html*/
+/*contato.html*/
 
-section.contact{
+section.contato{
     width: 900px;
     max-width: 100%;
         /* top/bottom: 40px, left/right: auto (para centralizar) */
     margin: 40px auto;
 }
-section.contact article{
+section.contato article{
     padding: 15px 0;
     border-bottom: 1px solid #ccc;
 }
